@@ -91,6 +91,6 @@ Special thanks to our Moringa School Data Science Technical Mentors for their gu
 - Ronald Nyagaka
 - Sharon Atieno
 - Pamela Awino
-- Isaac Muturi
+- [Isaac Muturi](https://github.com/Isaac-Ndirangu-Muturi-749)
 - Leonard Rotich
 - Paul Musau
